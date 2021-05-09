@@ -1,5 +1,10 @@
 package com.example.demo;
 
+
+/*
+Simulerar ett interface till att ett enkelt device som man kan sätta av och stänga av.
+ */
+
 public class Device {
 
     boolean state = false;
